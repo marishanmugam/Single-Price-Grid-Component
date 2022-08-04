@@ -13,7 +13,7 @@ body {
 }
 .textcontainer {
   width: 70%;
-  margin: auto;
+  margin: 0 auto;
   height: 200%;
   padding: 100px 300px;
   background-size: 100% 100%;
@@ -22,7 +22,7 @@ body {
   position: relative;
 }
 .imgcontainer {
-  width: 35%;
+  width: 34%;
   margin: auto;
 }
 
