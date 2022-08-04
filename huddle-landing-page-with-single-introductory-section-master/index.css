@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: url('./images/bg-desktop.svg');
+    background-repeat: no-repeat;
+    background-color: #674bb0;
+    color: #feffff;
+    font-family: Poppins;
+}
+.contianer {
+ width : 100%;
+ display: grid;
+ grid-template-columns: repeat(2,1fr);
+ margin-top: 170px;
+
+}
+
+.imgcontainer {
+    width: 100%;
+    padding: 0% 100px;
+}
+
+.textcontainer {
+    width: 60%;
+    padding: 0% 50px;
+}
+
+label {
+    color: #f4e4fd;
+}
